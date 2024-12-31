@@ -4,27 +4,10 @@
 
 
 ## Awesome-LLM-as-a-judge: A Survey
-This repo include the papers discussed in our latest survey paper on Awesome-LLM-as-a-judge.
-
-Our official websit: [Website](https://llm-as-a-judge.github.io/)
-
-:book: Read the full paper here: [Paper Link](https://arxiv.org/abs/2411.16594)
+This repo includes the papers discussed in our latest survey paper on Awesome-LLM-as-a-judge.
 
 ## 🔔 News
-- **`2024-12` Also check our paper list and survey on [LLM-based data annotation and synthesis](https://github.com/Zhen-Tan-dmml/LLM4Annotation)!**
 - **`2024-12` We update our paper list and include papers of LLM-as-a-judge in December 2024!**
-- **`2024-12` We update the slides, talk and report of our paper, check them in our [Website](https://llm-as-a-judge.github.io/)!**
-
-## Reference
-If our survey is useful for your research, please kindly cite our [paper](https://arxiv.org/abs/2411.16594):
-```
-@article{li2024llmasajudge,
-  title   = {From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge},
-  author  = {Dawei Li and Bohan Jiang and Liangjie Huang and Alimohammad Beigi and Chengshuai Zhao and Zhen Tan and Amrita Bhattacharjee and Yuxuan Jiang and Canyu Chen and Tianhao Wu and Kai Shu and Lu Cheng and Huan Liu},
-  year    = {2024},
-  journal = {arXiv preprint arXiv: 2411.16594}
-}
-```
 
 ## Overview of Awesome-LLM-as-a-judge:
 
